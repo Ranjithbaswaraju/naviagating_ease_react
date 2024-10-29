@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    /* background-color: red; */
+    display: flex;
+ 
+}
+
+.pic img{
+    
+    width: 50vw;
+}
+
+.form-container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(27, 2, 2, 0.1);
+    width: 20vw;
+    height: 90vh; /* Adjust height to fit content */
+    display: flex; /* Enable flexbox */
+    flex-direction: column; /* Arrange children vertically */
+    justify-content: center; /* Center children vertically */
+    align-items: center; /* Center children horizontally */
+    padding: 20px;  
+    gap:0px
+}
+.ant-form-item-explain-error {
+    font-size: 12px; /* Smaller font size for error message */
+    /* margin-top: 4px;  */
+    width: 200px;/* Minimal space between input and error message */
+  }
+ 
+
+  
