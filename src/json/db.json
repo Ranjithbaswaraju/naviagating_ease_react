@@ -11,6 +11,16 @@
       "username": "Ranjith@123",
       "password": "Ammabapu@123",
       "phone": "9912351561"
+    },
+    {
+      "id": "45a6",
+      "username": "Ranjith",
+      "password": "Ranjith@123"
+    },
+    {
+      "id": "80d1",
+      "username": "Amma",
+      "password": "Amma"
     }
   ]
 }
